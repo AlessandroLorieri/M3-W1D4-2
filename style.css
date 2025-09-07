@@ -4,10 +4,17 @@
     box-sizing: border-box;
 }
 
+
 h1{
     color: blue;
 }
 
-li{
-    background-color: yellow;
-}
+
+li {
+    background-color: aquamarine;
+    list-style-type: square;
+
+
+
+
+
